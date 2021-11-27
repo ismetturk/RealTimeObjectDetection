@@ -1,0 +1,8 @@
+item{
+	 name:"openhand"
+	 id: 1
+}
+item{
+	 name:"punch"
+	 id: 2
+}
